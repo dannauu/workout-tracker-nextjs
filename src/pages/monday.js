@@ -3,7 +3,10 @@ import Nav from '../components/Navigation'
 
 const monday = () => {
   return (
-    <Nav/>
+    <div>
+      <Nav />
+      <h1>Back</h1>
+    </div>
   )
 }
 
